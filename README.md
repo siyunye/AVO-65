@@ -71,3 +71,14 @@ We provide comprehensive baseline evaluations on AVO-65, including both CNN-base
 ## ✍️ Citation
 
 If you find AVO-65 useful in your research, please cite our work.
+
+---
+
+### 🎬 Dataset Samples (Click to Play)
+
+| **Category: Guitar (Chordophones)** |
+| :---: |
+| [![Play Sample Video](samples/Guitar.png)](samples/1kdGia7plHk_000030.mp4) |
+| *Click the image above to play the sample* |
+
+
