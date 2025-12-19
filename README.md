@@ -74,19 +74,10 @@ If you find AVO-65 useful in your research, please cite our work.
 
 ---
 
-### 🎬 Dataset Samples (Click to View)
+### 🎬 Dataset Samples
 
-<table>
-  <tr>
-    <td align="center">
-      <b>Category: Guitar (Chordophones)</b><br />
-      <a href="samples/1kdGia7plHk_000030.mp4">
-        <img src="samples/Guitar.png" width="200" alt="Guitar Sample" />
-      </a>
-      <br />
-      <i>(Click the image to open the video player)</i>
-    </td>
-  </tr>
-</table>
+<video src="samples/1kdGia7plHk_000030.mp4" controls="controls" width="500" poster="samples/Guitar.png">
+  您的浏览器不支持视频播放。
+</video>
 
 
