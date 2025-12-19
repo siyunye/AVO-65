@@ -78,11 +78,15 @@ If you find AVO-65 useful in your research, please cite our work.
 
 <div align="center">
   <video src="https://github.com/user-attachments/assets/1504c894-3080-4d21-b635-139a411ba9c6" 
-         poster="samples/Guitar.png" 
-         width="500" 
+         width="200" 
          controls="controls">
   </video>
   <br />
+  <p>
+    <b>Category: Guitar (Chordophones)</b><br />
+    <i>(Native GitHub Player: Click play to watch directly)</i>
+  </p>
+</div>
   <p>
     <b>Category: Guitar (Chordophones)</b><br />
     <i>(Native GitHub Player: Click play to watch directly)</i>
