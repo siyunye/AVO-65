@@ -12,7 +12,7 @@ Official repository for the paper: **"AVO-65: A LARGE-SCALE HIERARCHICAL AUDIO-V
 **AVO-65** is a novel, object-centric audio-visual dataset designed to advance research in robust multimodal learning. Unlike previous datasets that focus on flat labels or single modalities, AVO-65 treats auditory and visual modalities with equal importance and provides a rigorous hierarchical structure.
 
 ### Key Features:
-* **Scale:** 30,000 high-quality video segments (83 hours).
+* **Scale:** \~30,000 high-quality video segments (\~83 hours).
 * **Taxonomy:** The first dataset to systematically apply the **Hornbostel-Sachs (H-S) taxonomy** for hierarchical audio-visual labeling.
 * **Consistency:** Guaranteed **semantic, temporal, and spatial consistencies** between audio and visual tracks.
 * **Real-world Complexity:** 100% real-world samples, retaining challenging cases like occlusion and modality absence.
