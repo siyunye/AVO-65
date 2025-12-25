@@ -43,7 +43,7 @@ AVO-65 follows the **Hornbostel-Sachs** classification system, providing a uniqu
 ## 🛠 Usage & Download
 
 ### 1. Download Annotations
-The complete metadata and labels are provided in `avo65_metadata.csv`.
+The complete metadata and labels are provided in `data/AVO-65.csv`.
 
 ### 2. Data Access
 As per ICASSP infrastructure guidelines, we provide YouTube IDs and timestamps. You can use tools like `yt-dlp` to download the original segments.
