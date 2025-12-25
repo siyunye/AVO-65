@@ -24,10 +24,10 @@ Official repository for the paper: **"AVO-65: A LARGE-SCALE HIERARCHICAL AUDIO-V
 
 The dataset is organized into 4 hierarchical levels. Below is an example of our annotation format in the released CSV:
 
-| YouTube ID | Start Time | End Time | Level 1 | Level 2 | Level 3 | Level 4 (Label) |
+| YouTube ID | Start Time | Class Name | Level 1 | Level 2 | Level 3 | Level 4 (Label) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `video_id_001` | 10.5 | 20.5 | Idiophones | Struck Idiophones | Cymbals | **Crash Cymbal** |
-| `video_id_002` | 45.0 | 55.0 | Chordophones | Lutes | Bowed Lutes | **Cello** |
+| `LA0mKES-0TM` | 30 | Acoustic_guitar | 2 | 4 | 6 | **1** |
+| `6zrX3NgsL7U` | 290 | Cello | 2 | 4 | 6 | **11** |
 
 ### Taxonomy Visualization
 AVO-65 follows the **Hornbostel-Sachs** classification system, providing a unique foundation for **Hierarchical Learning**:
